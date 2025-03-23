@@ -1,0 +1,11 @@
+streamlit
+pypdf2
+pandas
+openai
+langchain
+azure-search-documents
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+azure-identity
